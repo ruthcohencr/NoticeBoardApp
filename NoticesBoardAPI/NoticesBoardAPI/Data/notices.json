@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 3,
+    "Title": "A very small - mini rabbit for sale",
+    "UploadDate": "2024-12-10T00:00:00",
+    "Description": "She is one month old and she is looking for a warm home",
+    "CategoryId": 2,
+    "CityId": 2,
+    "ImageFile": "https://localhost:7173/notices/114ea2ec-1fe8-484d-87cf-6311fa7c963f.jpeg",
+    "UserId": "ac532670-44f3-4098-a638-ecb7d95a3bbe"
+  },
+  {
+    "Id": 4,
+    "Title": "Sale for the next coming 2 weeks",
+    "UploadDate": "2024-12-22T00:00:00",
+    "Description": "Very beautiful white rabbit, you are going to love it, great for children",
+    "CategoryId": 2,
+    "CityId": 2,
+    "ImageFile": "https://localhost:7173/notices/092e6758-54c8-4907-beab-abcb9fb1348e.jpeg",
+    "UserId": "ac532670-44f3-4098-a638-ecb7d95a3bbe"
+  },
+  {
+    "Id": 5,
+    "Title": "Very small rabbit for sale",
+    "UploadDate": "2024-12-18T00:00:00",
+    "Description": "Very small rabbit for sale - 2 borders",
+    "CategoryId": 2,
+    "CityId": 1,
+    "ImageFile": "https://localhost:7173/notices/bb03297c-75ef-4396-82ca-915c89df148a.jpeg",
+    "UserId": "ac532670-44f3-4098-a638-ecb7d95a3bbe"
+  },
+  {
+    "Id": 6,
+    "Title": "Message regarding very Small Rabbit",
+    "UploadDate": "2024-12-29T00:00:00",
+    "Description": "Looking for very small white rabbit, I want it for my children",
+    "CategoryId": 1,
+    "CityId": 6,
+    "ImageFile": null,
+    "UserId": "e519ca9f-4b99-42b8-a8db-d937dab84588"
+  },
+  {
+    "Id": 7,
+    "Title": "5 month old rabbit broders are waiting for you",
+    "UploadDate": "2024-12-25T00:00:00",
+    "Description": "They are so cute and love play with children",
+    "CategoryId": 1,
+    "CityId": 6,
+    "ImageFile": "https://localhost:7173/notices/db20e0dd-ae9b-498b-9963-e175e9233893.jpeg",
+    "UserId": "e519ca9f-4b99-42b8-a8db-d937dab84588"
+  },
+  {
+    "Id": 8,
+    "Title": "For sale",
+    "UploadDate": "2024-12-29T00:00:00",
+    "Description": "You can have it for 100 NIS",
+    "CategoryId": 2,
+    "CityId": 2,
+    "ImageFile": "https://localhost:7173/notices/ac4de8f7-9552-4cb6-a8bd-9bf8b5a239fc.jpeg",
+    "UserId": "1"
+  },
+  {
+    "Id": 9,
+    "Title": "Cute rabbit for sale",
+    "UploadDate": "2024-12-29T00:00:00",
+    "Description": "You are going to love it, come to see",
+    "CategoryId": 2,
+    "CityId": 1,
+    "ImageFile": "https://localhost:7173/notices/abc3d8c0-44bf-4dbd-92ae-24b3abe3bcf6.jpeg",
+    "UserId": "e519ca9f-4b99-42b8-a8db-d937dab84588"
+  },
+  {
+    "Id": 10,
+    "Title": "Veterinary Service for Rabbits",
+    "UploadDate": "2024-12-29T00:00:00",
+    "Description": "We invite you to make a monthly subscription for 50 NIS, this includes everything for your rabbit",
+    "CategoryId": 4,
+    "CityId": 1,
+    "ImageFile": null,
+    "UserId": "e519ca9f-4b99-42b8-a8db-d937dab84588"
+  },
+  {
+    "Id": 11,
+    "Title": "2 lovely rabbit looking for a new home",
+    "UploadDate": "2024-12-29T00:00:00",
+    "Description": "Time for us to say good bye, because Their mother needs to give birth again",
+    "CategoryId": 3,
+    "CityId": 8,
+    "ImageFile": "https://localhost:7173/notices/5493ba50-b97c-4653-b218-43d123186052.jpeg",
+    "UserId": "e519ca9f-4b99-42b8-a8db-d937dab84588"
+  },
+  {
+    "Id": 2,
+    "Title": "Our beautiful rabbit - \"Moka\" is looking for a new home",
+    "UploadDate": "2024-12-30T00:00:00",
+    "Description": "Our son grew up fast and he can't take car of her",
+    "CategoryId": 2,
+    "CityId": 2,
+    "ImageFile": "https://localhost:7173/notices/2a92f89f-fa01-44c1-89d7-ddb819a26416.jpeg",
+    "UserId": "ac532670-44f3-4098-a638-ecb7d95a3bbe"
+  },
+  {
+    "Id": 1,
+    "Title": "Perfect for your children",
+    "UploadDate": "2024-12-30T00:00:00",
+    "Description": "Looking for very small white rabbit, I want it for my children",
+    "CategoryId": 2,
+    "CityId": 2,
+    "ImageFile": "https://localhost:7173/notices/9b014fe4-592c-459d-a9ad-b76698d23d9b.jpeg",
+    "UserId": "ac532670-44f3-4098-a638-ecb7d95a3bbe"
+  }
+]

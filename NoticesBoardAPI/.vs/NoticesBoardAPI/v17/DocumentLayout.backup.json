@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\noticesboardapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\noticesboardapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\controllers\\noticescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\controllers\\noticescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\data\\notices.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\data\\notices.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\repositories\\notices\\noticesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\repositories\\notices\\noticesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\services\\noticesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\services\\noticesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\utilities\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\utilities\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\noticecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\noticecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\repositories\\notices\\inoticesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\repositories\\notices\\inoticesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\services\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\services\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\entities\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\entities\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\noticedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\noticedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\security\\jsonuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\security\\jsonuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\noticeputgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\noticeputgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\authenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\authenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\data\\cities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\data\\cities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\repositories\\cities\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\repositories\\cities\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\dtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\dtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\repositories\\cities\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\repositories\\cities\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\repositories\\cities\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\repositories\\cities\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|c:\\users\\ruth\\source\\repos\\angular\\iai\\noticesboardapi\\noticesboardapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B30C9F91-DABE-4662-80E6-1BB14B94D0E7}|NoticesBoardAPI\\NoticesBoardAPI.csproj|solutionrelative:noticesboardapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\.gitignore",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\.gitignore",
+              "RelativeToolTip": "NoticesBoardAPI\\.gitignore",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-30T21:09:21.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoticesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Controllers\\NoticesController.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Controllers\\NoticesController.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Controllers\\NoticesController.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Controllers\\NoticesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:32:24.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoticesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Notices\\NoticesRepository.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Repositories\\Notices\\NoticesRepository.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Notices\\NoticesRepository.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Repositories\\Notices\\NoticesRepository.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAewFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:35:36.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Data\\users.json",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Data\\users.json",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Data\\users.json",
+              "RelativeToolTip": "NoticesBoardAPI\\Data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T21:25:56.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:35:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\appsettings.json",
+              "RelativeToolTip": "NoticesBoardAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T13:57:33.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoticesService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Services\\NoticesService.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Services\\NoticesService.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Services\\NoticesService.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Services\\NoticesService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:01:14.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoticesBoardAPI",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\NoticesBoardAPI.csproj",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\NoticesBoardAPI.csproj",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\NoticesBoardAPI.csproj",
+              "RelativeToolTip": "NoticesBoardAPI\\NoticesBoardAPI.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T21:59:25.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Utilities\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Utilities\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Utilities\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Utilities\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:51:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "notices.json",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Data\\notices.json",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Data\\notices.json",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Data\\notices.json",
+              "RelativeToolTip": "NoticesBoardAPI\\Data\\notices.json",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv28AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T02:43:46.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoticeCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\NoticeCreationDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\NoticeCreationDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\NoticeCreationDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\NoticeCreationDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:37:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Services\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Services\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Services\\IFileStorage.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Services\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:15:42.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INoticesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Notices\\INoticesRepository.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Repositories\\Notices\\INoticesRepository.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Notices\\INoticesRepository.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Repositories\\Notices\\INoticesRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA5wA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:36:06.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Services\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Services\\LocalFileStorage.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Services\\LocalFileStorage.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Services\\LocalFileStorage.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:32:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notice.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Entities\\Notice.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Entities\\Notice.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Entities\\Notice.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Entities\\Notice.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:00:35.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoticeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\NoticeDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\NoticeDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\NoticeDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\NoticeDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:02:05.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\users.json",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\users.json",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\users.json",
+              "RelativeToolTip": "NoticesBoardAPI\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T21:07:12.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:32:49.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JsonUserStore.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Security\\JsonUserStore.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Security\\JsonUserStore.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Security\\JsonUserStore.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Security\\JsonUserStore.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAnwJwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:58:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserCredentialsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\UserCredentialsDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\UserCredentialsDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\UserCredentialsDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\UserCredentialsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:12:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NoticePutGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\NoticePutGetDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\NoticePutGetDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\NoticePutGetDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\NoticePutGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:30:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Program.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:37:23.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenticationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\AuthenticationResponseDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\AuthenticationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\AuthenticationResponseDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\AuthenticationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:14:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:01:26.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cities.json",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Data\\cities.json",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Data\\cities.json",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Data\\cities.json",
+              "RelativeToolTip": "NoticesBoardAPI\\Data\\cities.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T01:24:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Cities\\CityRepository.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Repositories\\Cities\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Cities\\CityRepository.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Repositories\\Cities\\CityRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:18:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Entities\\City.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:50:48.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\CityDTO.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\DTOs\\CityDTO.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\DTOs\\CityDTO.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\DTOs\\CityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:49:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Cities\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Repositories\\Cities\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Cities\\InMemoryRepository.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Repositories\\Cities\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:49:03.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Cities\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Repositories\\Cities\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Repositories\\Cities\\ICityRepository.cs",
+              "RelativeToolTip": "NoticesBoardAPI\\Repositories\\Cities\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:10:32.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NoticesBoardAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ruth\\source\\repos\\Angular\\IAI\\NoticesBoardAPI\\NoticesBoardAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NoticesBoardAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T17:40:10.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

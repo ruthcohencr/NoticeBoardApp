@@ -1,0 +1,36 @@
+[
+  {
+    "Id": "ac532670-44f3-4098-a638-ecb7d95a3bbe",
+    "UserName": "lilalula@hotmail.com",
+    "NormalizedUserName": null,
+    "Email": "LILALULA@HOTMAIL.COM",
+    "NormalizedEmail": null,
+    "EmailConfirmed": false,
+    "PasswordHash": "AQAAAAIAAYagAAAAEMwu4WzgBfac0CF771QaqkYxIHJdambBqGIsa1VVPtVXLMgf4WR5WWRqZLBc0CuwjQ==",
+    "SecurityStamp": "a247bbcb-2e0e-4684-9ad5-cb31a5d53778",
+    "ConcurrencyStamp": "c1e882c2-d9c8-46b7-9b53-bc156dbbc3aa",
+    "PhoneNumber": null,
+    "PhoneNumberConfirmed": false,
+    "TwoFactorEnabled": false,
+    "LockoutEnd": null,
+    "LockoutEnabled": false,
+    "AccessFailedCount": 0
+  },
+  {
+    "Id": "e519ca9f-4b99-42b8-a8db-d937dab84588",
+    "UserName": "banana@banana.com",
+    "NormalizedUserName": null,
+    "Email": "BANANA@BANANA.COM",
+    "NormalizedEmail": null,
+    "EmailConfirmed": false,
+    "PasswordHash": "AQAAAAIAAYagAAAAEHiXO5kqxYgAIg9zdorSxZo30HLt6FDsU+McFbnXd+VSgcitBonQi/ttQvyHFn4XYA==",
+    "SecurityStamp": "102ac371-659e-4c70-9157-a375e98596a5",
+    "ConcurrencyStamp": "47337616-d193-4104-be2f-60c884c2f9d7",
+    "PhoneNumber": null,
+    "PhoneNumberConfirmed": false,
+    "TwoFactorEnabled": false,
+    "LockoutEnd": null,
+    "LockoutEnabled": false,
+    "AccessFailedCount": 0
+  }
+]

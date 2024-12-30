@@ -1,0 +1,60 @@
+﻿# Ignore the build output directories
+bin/
+obj/
+
+
+
+# Ignore dependency directories for .NET Core
+/project.lock.json
+/project.json
+/packages/
+
+# Ignore ASP.NET temporary files
+wwwroot/
+
+# Ignore Visual Studio for Mac
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore Windows Installer files
+Thumbs.db
+
+# Ignore ASP.NET Core development certificate
+aspnetcore-https/
+
+# Ignore the global .NET tool folder
+.dotnet/
+
+# Ignore npm dependency directories
+node_modules/
+
+# Ignore local .env files for environment variables
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build and deployment files
+publish/
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+# Ignore temporary files
+*.log
+*.tmp

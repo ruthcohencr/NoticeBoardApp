@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Tel-Aviv"
+  },
+  {
+    "id": 2,
+    "name": "Jerusalem"
+  },
+  {
+    "id": 3,
+    "name": "Haifa"
+  },
+  {
+    "id": 4,
+    "name": "Eilat"
+  },
+  {
+    "id": 5,
+    "name": "Beersheba"
+  },
+  {
+    "id": 6,
+    "name": "Ramat-Hasharon"
+  },
+  {
+    "id": 7,
+    "name": "Rehovot"
+  },
+  {
+    "id": 8,
+    "name": "Petah-Tikva"
+  },
+  {
+    "id": 9,
+    "name": "Ramat-Gan"
+  },
+  {
+    "id": 10,
+    "name": "Rehovot"
+  },
+  {
+    "id": 11,
+    "name": "Bene-Braq"
+  },
+  {
+    "id": 12,
+    "name": "Bet-Shemesh"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "bc95bae5-da54-4413-a10b-06fa9410b8d5",
+    "UserName": "lilalu@hotmail.com",
+    "NormalizedUserName": null,
+    "Email": "lilalu@hotmail.com",
+    "NormalizedEmail": null,
+    "EmailConfirmed": false,
+    "PasswordHash": "AQAAAAIAAYagAAAAEOzE3+Yrw+tUYgkJojEOqvJzSW+rRFaUY81OFVgkEt7+y590XrvKQNRHAEnLE4Mwiw==",
+    "SecurityStamp": "d5f54645-305d-4a70-a288-83c462d4a5ad",
+    "ConcurrencyStamp": "f213d3a5-3262-4a31-baa9-81a0eea5da86",
+    "PhoneNumber": null,
+    "PhoneNumberConfirmed": false,
+    "TwoFactorEnabled": false,
+    "LockoutEnd": null,
+    "LockoutEnabled": false,
+    "AccessFailedCount": 0
+  }
+]
