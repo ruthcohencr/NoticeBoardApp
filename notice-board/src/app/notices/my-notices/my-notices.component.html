@@ -1,0 +1,13 @@
+<h2>My notices</h2>
+
+<button mat-flat-button routerLink="/my-notices/create">
+    <mat-icon>add</mat-icon>
+    Create new
+</button>
+
+<h2>Recent & new</h2>
+<!-- <app-notices-list [notices]="noticesList"></app-notices-list>  using mock data -->
+<app-notices-list 
+    [notices]="noticesList"
+    (delete)="deleteNotice($event)">
+</app-notices-list>

@@ -1,0 +1,50 @@
+<div class="notices-container">
+    @if (!notices) {
+    <img src="loading.gif" />
+    }@else if (notices.length === 0) {
+    <div>
+        <p>There are no notices to display</p>
+    </div>
+    }@else {
+    @for (notice of notices; track $index) {
+    <mat-card class="notice-card" appearance="outlined">
+        <mat-card-header>
+            
+            <div>{{getCategoryName(notice.categoryId)}}</div>
+            <mat-card-title [title]="notice.title" class="truncate-text">{{notice.title | uppercase | maxLength: 20}}</mat-card-title>
+            <mat-card-subtitle>
+                <span *ngIf="getCityName(notice.cityId) | async as cityName; else loading">
+                    {{ cityName }}
+                </span>
+                <!-- Show loading message while waiting for city name -->
+                <ng-template #loading>Loading city...</ng-template>
+            </mat-card-subtitle>
+            <mat-card-subtitle>Upload date: {{notice.uploadDate | date: "dd-MMMM-yyyy"}}</mat-card-subtitle>
+
+        </mat-card-header>
+        @if (notice.imageFile) {
+        <img mat-card-image [src]="notice.imageFile">
+        }@else{
+        <img mat-card-image src="./imagesForMessages/defaultRabbit.png" alt="default image" width="250">
+        }
+        <mat-card-content>
+            <p>{{notice.description | maxLength: 100}} </p>
+        </mat-card-content>
+
+        <mat-card-actions>
+            <app-authorized [role]="role">
+                <ng-container authorized>
+                    <div>
+                        <a mat-button color="yellow" [routerLink]="['/my-notices/edit', notice.id]">
+                            Edit
+                        </a>
+                        <button mat-flat-button type="button" color="warn" (click)="onDelete(notice.id)">
+                            Delete
+                        </button>
+                    </div>
+                </ng-container>
+            </app-authorized>
+        </mat-card-actions>
+    </mat-card>
+    }
+    }

@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* You MUST import ONE of the pre-built themes. */
+/* @import "@angular/material/prebuilt-themes/indigo-pink.css"; */
+/* @import "@angular/material/prebuilt-themes/deeppurple-amber.css"; */
+/* @import "@angular/material/prebuilt-themes/pink-bluegrey.css"; */
+/* @import "@angular/material/prebuilt-themes/purple-green.css"; */
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    height: fit-content;
+}
+
+.buttons-container button {
+    margin-right: 1rem;
+}
+
+ mat-form-field {
+    width: 100%;
+    max-width: 500px;
+    /* display: block; */
+    display: block !important;
+    margin-top: 1rem;
+}
+.buttons-container {
+    margin-top: 1rem;
+}
+
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

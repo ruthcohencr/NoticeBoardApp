@@ -1,0 +1,11 @@
+.fixed-top{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.container {
+    margin: 0 100px;
+    padding-bottom: 100px;
+}

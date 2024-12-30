@@ -1,0 +1,11 @@
+.file-upload {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .file-upload span {
+      max-width: 250px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+  }

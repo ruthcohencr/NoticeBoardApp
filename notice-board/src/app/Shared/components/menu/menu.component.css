@@ -1,0 +1,12 @@
+app-authorized {
+    display: flex;
+}
+
+.space {
+    flex: 1 1 auto;
+}
+
+.greeting {
+    font-size: 18px;
+    display: inline;
+}

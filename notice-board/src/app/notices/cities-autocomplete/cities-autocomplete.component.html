@@ -1,0 +1,12 @@
+<form>
+    <mat-form-field>
+        <mat-label>City name</mat-label>
+        <input type="text" placeholder="write the name of the city" matInput [formControl]="control"
+        [matAutocomplete]="auto">
+        <mat-autocomplete #auto (optionSelected)="handleSelection($event)" [displayWith]="displayFn">
+            @for (city of cities; track city) {
+                <mat-option [value]="city">{{city.name}}</mat-option>
+            }
+        </mat-autocomplete>
+    </mat-form-field>
+</form>

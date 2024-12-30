@@ -1,0 +1,11 @@
+<h2>Edit Notice</h2>
+
+@if(model){
+    <app-notice-form 
+    [model]="model" 
+    (postForm)="saveChanges($event)"
+    ></app-notice-form>
+}@else {
+    <!-- <app-loading></app-loading> --> todo make one generic
+    <img src="loading.gif" />
+}

@@ -1,0 +1,47 @@
+.notices-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    gap: 0.5rem;
+    /* background-color: white; */
+}
+
+.notice-card{
+    width: 400px; /* Consistent width for all cards */
+    max-height: 420px;
+    /* border: 1px solid black; */
+    /* padding: 0.5rem; */
+    border: 1px solid rgba(0, 0, 0, 0.1); /* Optional subtle border */
+    padding: 0.5rem;
+    overflow: hidden; /* Clip overflowing content (if needed) */
+}
+
+.notice-card mat-card-title {
+    flex: 1; /* Allow title to expand within available space */
+    white-space: nowrap; /* Prevent line breaks within title */
+    overflow: hidden; /* Clip overflowing text (with ellipsis) */
+    text-overflow: ellipsis; /* Add ellipsis for long titles */
+  }
+  
+.notice-card img {
+    width: 100%; /* Ensure image fills card width */
+    object-fit: cover; /* Scale image to cover card area proportionally */
+    height: 200px; /* Optional fixed image height */
+  }
+
+  mat-card-actions {
+   padding-bottom: 1rem;
+  }
+
+  .maxLength-text {
+    display: inline-block;        /* Ensure text is treated as inline */
+    max-width: 100%;              /* Don't allow it to overflow */
+    white-space: nowrap;         /* Prevent line breaks */
+    overflow: hidden;            /* Hide overflow text */
+    text-overflow: ellipsis;     /* Add ellipsis (...) when text overflows */
+    cursor: pointer;             /* Change cursor to indicate it's clickable or hoverable */
+  }
+  
+  .maxLength:hover {
+    text-decoration: underline;  /* Optional: Underline on hover for better UX */
+  }
