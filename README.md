@@ -38,7 +38,7 @@ Before setting up the project, ensure you have the following installed:
 ## Installation Instructions
 
 1. **Clone the Repository**:
-   git clone https://github.com/your-username/NoticeBoardApp.git
+   git clone https://github.com/ruthcohencr/NoticeBoardApp.git
    cd NoticeBoardApp
 
 - dotnet restore
