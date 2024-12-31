@@ -50,3 +50,11 @@ Before setting up the project, ensure you have the following installed:
 - ng serve
 
 ## The app should now be running at http://localhost:4200
+
+- users used in app
+  --------------------------------
+  "email": "lilalula@hotmail.com",
+  "password": "aA8912!7hg"
+
+  "email": "banana@banana.com",
+  "password": "my87seP##55"
