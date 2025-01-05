@@ -1,5 +1,5 @@
 import { CommonModule, Location } from '@angular/common';
-import { Component, inject, OnInit } from '@angular/core';
+import { AfterViewInit, Component, inject, OnInit, ViewChild } from '@angular/core';
 import { ReactiveFormsModule, FormsModule, FormBuilder } from '@angular/forms';
 import { MatButtonModule } from '@angular/material/button';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -29,8 +29,11 @@ import { CityAutoCompleteDTO } from '../models/city-auto-complete.model';
   styleUrl: './notices-search.component.css'
 })
 
-export class NoticesSearchComponent implements OnInit {
+export class NoticesSearchComponent implements OnInit, AfterViewInit {
   
+  @ViewChild(CitiesAutocompleteComponent)
+  citiesAutocompleteComponent!: CitiesAutocompleteComponent;
+
   handleCitySelection(city: CityAutoCompleteDTO) {
     this.form.controls.cityId.setValue(city.id); // todo change to id
   }
@@ -64,6 +67,11 @@ export class NoticesSearchComponent implements OnInit {
     });
 
   }
+
+  ngAfterViewInit(): void {
+    if (this.citiesAutocompleteComponent) {
+      console.log(this.citiesAutocompleteComponent);
+  }}
 
   ngOnInit(): void {
 
@@ -168,11 +176,17 @@ export class NoticesSearchComponent implements OnInit {
   }
 
   clear() {
-    this.form.patchValue({
-      title: '',
-      categoryId: 0,
-      cityId: 0,
-      containsImage: false
-    });
+      this.form.patchValue({
+        title: '',
+        categoryId: 0,
+        cityId: 0,
+        containsImage: false
+      });
+
+      // To clear the city display as well
+      // Call the reset method on the child component
+      if (this.citiesAutocompleteComponent) {  
+        this.citiesAutocompleteComponent.clearCitySelection();
+      }
   }
 }

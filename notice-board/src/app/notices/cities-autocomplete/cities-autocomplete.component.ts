@@ -30,19 +30,6 @@ export class CitiesAutocompleteComponent implements OnInit{
     control = new FormControl();
 
     ngOnInit(): void {
-      // this.control.valueChanges.subscribe(value => {
-      //     this.cities = this.citiesOriginal;
-
-      //     if (!value) {
-      //       return;
-      //     }
-
-      //     const searchTerm = typeof value === 'string' ? value.toLowerCase(): '';
-
-      //     if (searchTerm)
-
-      //     this.cities = this.cities.filter(city => city.name.toLocaleLowerCase().includes(searchTerm));
-      // });
 
       this.cityService.getCities().subscribe( serverCities => {
         this.cities = serverCities;
@@ -65,9 +52,9 @@ export class CitiesAutocompleteComponent implements OnInit{
 
               if (searchTerm)
     
-                // this.cities = this.cities.filter(city => city.name.toLocaleLowerCase().includes(searchTerm));
                 this.cities = this.citiesOriginal.filter(city =>
-                  city.name.toLocaleLowerCase().includes(searchTerm)  // Filter based on the name
+             //     city.name.toLocaleLowerCase().includes(searchTerm)  // Filter based on the name
+                  city.name.toLowerCase().includes(searchTerm)  // Filter based on the name
                 );
             });
     }
@@ -75,11 +62,16 @@ export class CitiesAutocompleteComponent implements OnInit{
     handleSelection(event: MatAutocompleteSelectedEvent){
       this.selectedCity = event.option.value;
       this.postCity.emit(this.selectedCity);
-      // //this.control.patchValue('');
     }
 
     displayFn(city: CityAutoCompleteDTO): string {
       return city ? city.name : '';
+    }
+
+    clearCitySelection(): void {
+      this.control.setValue('');
+      this.selectedCity = null!; 
+      this.cities = [...this.citiesOriginal]; 
     }
 
 }
