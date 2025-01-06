@@ -9,27 +9,6 @@ import { environment } from '../../environments/environment.development';
 })
 export class CityService {
 
-  // private baseURL = environment.apiURL + '/cities';
-
-  // private cityList: { [key: number]: string } = {};
-
-  // constructor(private http: HttpClient) { }
-
-  // getCities(): Observable<CityDTO[]> {
-  //   return this.http.get<CityDTO[]>(this.baseURL).pipe(
-  //     tap(cities => {
-  //       this.cityList = cities.reduce((acc, city) => {
-  //         acc[city.id] = city.name;
-  //         return acc;
-  //       }, {} as {[key: number]: string});
-  //     })
-  //   );
-  // }
-
-  // getCityNameById(id: number): string {
-  //   return this.cityList[id] || 'Unknown City';
-  // }
-
   private baseURL = environment.apiURL + '/cities';
   private cityListSubject: BehaviorSubject<CityDTO[]> = new BehaviorSubject<CityDTO[]>([]);
 
