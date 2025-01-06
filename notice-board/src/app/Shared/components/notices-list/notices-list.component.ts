@@ -23,7 +23,6 @@ import { CityNamePipe } from "./city-name.pipe";
 export class NoticesListComponent {
 
   @Input()
-  // notices!: any[];
   notices!: NoticeDTO[];
 
   @Input()
@@ -38,10 +37,6 @@ export class NoticesListComponent {
 
   getCategoryName(categoryId: number): string {
     return this.categoryService.getCategoryById(categoryId);
-  }
-
-  getCityName(cityId: number): Observable<string> {
-    return this.cityServies.getCityNameById(cityId);
   }
 
   onDelete(id: number): void {
