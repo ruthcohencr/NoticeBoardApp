@@ -10,11 +10,12 @@ import { AuthorizedComponent } from "../../../security/authorized/authorized.com
 import { RouterLink, Router } from '@angular/router';
 import { MatButtonModule } from '@angular/material/button';
 import { MaxLengthPipe } from './max-length.pipe';
+import { CityNamePipe } from "./city-name.pipe";
 
 @Component({
   selector: 'app-notices-list',
   imports: [UpperCasePipe, DatePipe, MatCardModule, AsyncPipe, MaxLengthPipe,
-    CommonModule, AuthorizedComponent, RouterLink, MatButtonModule],
+    CommonModule, AuthorizedComponent, RouterLink, MatButtonModule, CityNamePipe],
   templateUrl: './notices-list.component.html',
   styleUrl: './notices-list.component.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -22,7 +23,6 @@ import { MaxLengthPipe } from './max-length.pipe';
 export class NoticesListComponent {
 
   @Input()
-  // notices!: any[];
   notices!: NoticeDTO[];
 
   @Input()
@@ -37,10 +37,6 @@ export class NoticesListComponent {
 
   getCategoryName(categoryId: number): string {
     return this.categoryService.getCategoryById(categoryId);
-  }
-
-  getCityName(cityId: number): Observable<string> {
-    return this.cityServies.getCityNameById(cityId);
   }
 
   onDelete(id: number): void {

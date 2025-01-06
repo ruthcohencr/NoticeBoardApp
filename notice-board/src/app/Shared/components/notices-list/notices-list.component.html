@@ -9,19 +9,21 @@
     @for (notice of notices; track $index) {
     <mat-card class="notice-card" appearance="outlined">
         <mat-card-header>
-            
             <div>{{getCategoryName(notice.categoryId)}}</div>
-            <mat-card-title [title]="notice.title" class="truncate-text">{{notice.title | uppercase | maxLength: 20}}</mat-card-title>
+            <mat-card-title [title]="notice.title" class="truncate-text">{{notice.title | uppercase | maxLength: 20}}
+            </mat-card-title>
             <mat-card-subtitle>
-                <span *ngIf="getCityName(notice.cityId) | async as cityName; else loading">
-                    {{ cityName }}
+                <span *ngIf="notice.cityId | cityName | async as cityName; else loading">
+                    {{cityName}}
                 </span>
-                <!-- Show loading message while waiting for city name -->
-                <ng-template #loading>Loading city...</ng-template>
+                <ng-template #loading>
+                    Loading...
+                </ng-template>
             </mat-card-subtitle>
-            <mat-card-subtitle>Upload date: {{notice.uploadDate | date: "dd-MMMM-yyyy"}}</mat-card-subtitle>
 
+            <mat-card-subtitle>Upload date: {{notice.uploadDate | date: "dd-MMMM-yyyy"}}</mat-card-subtitle>
         </mat-card-header>
+
         @if (notice.imageFile) {
         <img mat-card-image [src]="notice.imageFile">
         }@else{
