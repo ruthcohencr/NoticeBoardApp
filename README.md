@@ -1,2 +1,2 @@
 # NoticeBoardApp
-C# .Net Core Web API project in the backend and front-end in Angular
+Back-end: C# .Net Core Web API, Front-end: Angular 19
