@@ -8,12 +8,11 @@ import { SecurityService } from '../security.service';
   styleUrl: './authorized.component.css'
 })
 export class AuthorizedComponent {
-   securityService = inject(SecurityService);
+   
+  securityService = inject(SecurityService);
 
   @Input()
   role?: string;
-
-  // constructor(private securityService: SecurityService){}
 
   isAuthorized(): boolean {
 

@@ -27,7 +27,7 @@
    
     <app-authorized style="display: inline;">
         <ng-container authorized>
-            <span class="greeting">Hello, {{securityService.getJWTClaim("email")}}</span>
+            <span class="greeting">Hello, {{securityService.getJWTClaim(userId) | lowercase}}</span>
             <a mat-button (click)="securityService.logout()">Logout</a>
         </ng-container>
         <ng-container notAuthorized>

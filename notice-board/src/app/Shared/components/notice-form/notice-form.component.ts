@@ -28,6 +28,7 @@ export class NoticeFormComponent implements OnInit {
 
   router = inject(Router);
   private formBuilder = inject(FormBuilder);
+  private categoryService = inject(CategoryService);
 
   @Input()
   model?: NoticeDTO;
@@ -38,12 +39,8 @@ export class NoticeFormComponent implements OnInit {
   cities: CityDTO[] = [];
   categories: CategoryDTO[] = [];
   selectedCityId: number | null = null;
-
-
-  constructor(private categoryService: CategoryService, 
-    private cityService: CityService){}
-
   
+
   noticeForm = this.formBuilder.group({
     title: ['', { validators: [Validators.required] }],
     description: ['', { validators: [Validators.maxLength(100)] }],
