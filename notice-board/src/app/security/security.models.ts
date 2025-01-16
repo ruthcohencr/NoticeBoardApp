@@ -7,3 +7,7 @@ export interface AuthenticationResponseDTO {
     token: string;
     expiration: string;
 }
+
+export class ClaimTypes {
+    static readonly userId = 'userId';
+}

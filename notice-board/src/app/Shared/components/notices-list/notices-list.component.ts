@@ -29,11 +29,9 @@ export class NoticesListComponent {
   role?: string;
 
   router = inject(Router);
+  private categoryService = inject(CategoryService);
 
   @Output() delete = new EventEmitter<number>();
-
-  constructor(private categoryService: CategoryService,
-    private cityServies: CityService) { }
 
   getCategoryName(categoryId: number): string {
     return this.categoryService.getCategoryById(categoryId);
